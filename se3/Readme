@@ -1,0 +1,8 @@
+Some details -
+Project Description same as P2 but instead of using cuda, we use c++ 11 threads. Project uses 12 threads
+
+1. Create a build folder in the directory and do cmake ..
+2. Then do make
+3. The csv file gets generated inside the build folder after running
+4. My executable is called heat2D3D and csv file is called heat1Doutput.csv
+5. Run executable with argument as the conf file name. Sample Conf files are there in src folder
